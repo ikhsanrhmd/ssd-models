@@ -1,0 +1,6 @@
+dataset:
+  name: "FaceMask"
+  num_classes: 3
+  num_test_image: 1839
+  train: "train"
+  val: "val"

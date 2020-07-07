@@ -1,0 +1,6 @@
+dataset:
+  name: "fddb"
+  num_classes: 2
+  num_test_image: 285
+  train: "trainval"
+  val: "test"

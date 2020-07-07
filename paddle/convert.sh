@@ -1,0 +1,1 @@
+x2paddle --framework=caffe --prototxt=../voc/MobileNetSSD_deploy.prototxt --weight=../voc/MobileNetSSD_deploy.caffemodel --save_dir=pd_model

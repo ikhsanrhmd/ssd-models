@@ -46,7 +46,7 @@ layer {
     }
   }
   data_param {
-    source: "trainval_lmdb/"
+    source: "data/lmdb/trainval_lmdb/"
     batch_size: 24
     backend: LMDB
   }

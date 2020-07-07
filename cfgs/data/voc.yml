@@ -1,0 +1,6 @@
+dataset:
+  name: "voc"
+  num_classes: 21
+  num_test_image: 4952
+  train: "trainval"
+  val: "test"

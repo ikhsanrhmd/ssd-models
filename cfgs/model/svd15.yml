@@ -1,0 +1,11 @@
+model:
+  name: "svd15"
+  width: 90
+  height: 160
+  mbox_source_layers: ['conv3_2', 'conv6_2', 'conv7_2']
+  min_ratio: 20
+  max_ratio: 90
+  min_size: 120
+  steps: [4,8,16]
+  aspect_ratios: [[],[],[2]]
+  normalizations: [20, -1, -1]

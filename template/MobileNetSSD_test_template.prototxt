@@ -21,7 +21,7 @@ layer {
     }
   }
   data_param {
-    source: "test_lmdb"
+    source: "data/lmdb/test_lmdb"
     batch_size: 8
     backend: LMDB
   }

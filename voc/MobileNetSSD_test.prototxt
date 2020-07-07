@@ -21,7 +21,7 @@ layer {
     }
   }
   data_param {
-    source: "voc/lmdb/test_lmdb"
+    source: "data/voc/lmdb/VOC0712_test_lmdb"
     batch_size: 8
     backend: LMDB
   }

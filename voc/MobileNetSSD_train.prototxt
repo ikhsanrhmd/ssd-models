@@ -46,7 +46,7 @@ layer {
     }
   }
   data_param {
-    source: "voc/lmdb/trainval_lmdb/"
+    source: "data/voc/lmdb/VOC0712_trainval_lmdb/"
     batch_size: 8
     backend: LMDB
   }
